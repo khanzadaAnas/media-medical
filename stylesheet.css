@@ -1,0 +1,322 @@
+.Appointment {
+    background-color: #4a458a;
+    color: white;
+}
+
+.Appointment i{
+    position: absolute;
+    left: 1010px;
+}
+ .banner{
+        background-image: url(./image/Background-1.png);
+    background-size: contain;
+    height: 609px;
+    background-repeat: no-repeat;  
+ }
+
+ .menu-bar {
+      border-left: 1px solid #2792a6;
+     
+ }
+
+
+
+.second-nav {
+    padding: 0;
+}
+
+.search-bar {
+    background: #34717d;
+    padding: 0px 5px 5px 5px;
+    border-radius: 50%;
+}
+
+.banner .align-items-center {
+    min-height: 500px;
+}
+
+
+
+.form-section {
+    position: absolute;
+    top: 572px;
+    left: 209px;
+    background-color: white;
+    padding-right: 55px;
+    padding-left: 55px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 149px;
+    width: 1128px;
+}
+
+
+
+.r-text {
+    padding-left: 150px;
+}
+
+.navbar li {
+    margin-right: 50px;
+}
+
+.between-link {
+    width: 365px;
+    position: absolute;
+    top: 1655px;
+    left: 395px;
+}
+
+.read-card {
+     background-color: #4a458a;
+    color: white;
+}
+
+}
+
+.between-link li {
+    color: white;
+    border-top: 1px solid #52a8b8;
+}
+
+.between-link a {
+    color: white;
+    margin: 15.5px;
+}
+
+.between-link btn-outlin {
+    position: absolute;
+    left: 371px
+}
+
+.between-link i {
+    position: relative;
+    left: 65px;
+}
+
+.our-services .ourservices-one {
+    background-image: url(./image/Background111.png);
+    height: 710px;
+    background-size: cover;
+    background-repeat: no-repeat;
+   box-shadow: 2px 27px 42px -18px rgba(233,233,233,1);
+-webkit-box-shadow: 2px 27px 42px -18px rgba(233,233,233,1);
+-moz-box-shadow: 2px 27px 42px -18px rgba(233,233,233,1);
+}
+
+.our-services .ourservices-two {
+    background-image: url(./image/Icons-shape.png);
+    background-size: contain;
+    height: 704px;
+    margin-top: 45px;
+    
+}
+.intext{
+    margin-top: 45px;
+    margin-left: 60px;
+}
+.news-text  {
+    margin-left: 242px;
+    color: blueviolet;
+    font-weight: bold;
+    margin-bottom: 100px;
+
+}
+.our-services .adult {
+    background-color: #595395;
+    border-top: 1px solid #595395;
+}
+
+.our-services .intext img {
+    position: relative;
+    left: 40px;
+}
+
+.health-menu {
+    position: absolute;
+    top: 2078px;
+    background-color: white;
+    padding-right: 90px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 169px;
+    width: 1128px;
+    
+}
+
+.gas {
+
+    color: thistle;
+    font-size: 11px;
+    margin-top: 11px;
+    margin-left: 7px;
+
+}
+.health-img{
+        display: flex;
+    align-items: baseline;
+    margin-right: 30px;
+}
+.read {
+    margin-left: 61px;
+}
+
+.read i{
+    position: absolute;
+    left: 190px;
+}
+
+.health-img img {
+    height:90px ;
+}
+.arrow-r {
+     background: #b7b7b7;
+    padding: 5px 12px 8px 8px;
+    border-radius: 50%;
+    position: absolute;
+    left: 1113px;
+    bottom: 63px;
+    color: #fff;
+}
+.arrow-r i{
+    position: relative;
+    left: 1px;
+}
+.arrow-w {
+     background: #2792a6;
+    padding: 5px 12px 8px 8px;
+    border-radius: 50%;
+    position: absolute;
+    left: 1113px;
+    bottom: 105px;
+    color:#fff;
+}
+
+.arrow-w i{
+    position: relative;
+    left: 1px;
+}
+.happen {
+    color: blueviolet;
+}
+
+.viewall{
+    position: absolute;
+        top: 2431px;
+    left: 1180px;
+}
+.viewall i {
+    position: relative;
+    left: 40px;
+    
+}
+.news-heading {
+      margin-top: 80px;
+    margin-bottom: 60px;
+}
+
+.card-heading{
+         border-left: 3px solid #2792a6;
+        color: #2792a6;
+            padding-left: 12px;
+            margin-top: 30px;
+           
+}
+.paragraph {
+    font-size: 13px
+}
+ .our-doctor {
+     background-image: url(./image/ourdoctor-bg.png);
+      background-repeat: no-repeat;
+      background-size: contain;
+       height: 554px;
+ }
+
+ .ourdoctor-heading{
+     margin: 117px;
+ }
+
+ hr .line {
+     border-color: #2a2c37;
+ }
+
+.footer p{
+    font-size: 13px;
+}
+
+.last {
+    
+    margin-top: 50px;
+    background-color: #1d1f2a;
+     padding-top: 30px;
+    padding-bottom: 18px;
+    padding-left: 76px;
+  
+}
+
+.media {
+    margin-left: 30px;
+}
+
+
+.healthcare{
+        display: flex;
+    align-items: center;
+    margin-top: 48px;
+}
+
+.healthcare h4{
+    font-size: 35px;
+    color: #61afbe;
+}
+
+
+
+.card-text {
+    margin-left: 15px;
+}
+
+
+@media screen and (max-width: 400px) {
+    .first-navbar{
+    width: 99rem;
+    }
+    .search-bar{
+        margin-left: 81.25rem;
+    }
+
+    .second-nav{
+        width: 95rem;
+    }
+     .second-nav .navbar-brand {
+         margin-right: 70.75rem;
+    }
+     .banner{
+      width: 1565px;
+    }
+     .searchby {
+         margin-left: 35.875rem;
+         font-size: 2em;
+    }
+     .half-section{
+         width: max-content;
+    }
+      .news{
+          width: max-content;
+    }
+    .viewall{
+        width: max-content;
+    }
+    .cards{
+           width: 1570px;
+    }
+
+    .our-doctor{
+            width: 1530px;
+    }
+
+    .footer{
+            width: 1505px;
+        
+    }
+}
